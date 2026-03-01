@@ -47,8 +47,10 @@
   - Tombol "Lihat Sertifikat" yang mengarah ke file PDF
   - Hover effect dengan shadow dan border highlight
 
-    <img width="1892" height="657" alt="image" src="https://github.com/user-attachments/assets/1aaf2252-e8b2-493d-b43d-2ebea42fc223" />
+<img width="1901" height="622" alt="image" src="https://github.com/user-attachments/assets/cd620b7b-e131-4912-82f2-35fb0bce2045" />
 
 ### 5. **Footer**
 - **Tampilan:** Simple footer dengan copyright text
 - **Fitur:** Tahun 2026 dengan nama pemilik
+
+<img width="1895" height="106" alt="image" src="https://github.com/user-attachments/assets/e731e557-143f-48d2-8a45-4afdaceb89b7" />
