@@ -1,7 +1,4 @@
-/* ============================================
-   DANIAL HIRZAN AKBARY - PORTFOLIO
-   Simple & Clean Dark Theme
-   ============================================ */
+
 
 * {
     margin: 0;
@@ -26,9 +23,6 @@ body {
     padding: 0 20px;
 }
 
-/* ============================================
-   NAVBAR - Simple
-   ============================================ */
 .navbar {
     background: #1f2937;
     padding: 15px 0;
@@ -73,7 +67,6 @@ body {
     color: #60a5fa;
 }
 
-/* Mobile Menu */
 .nav-toggle {
     display: none;
 }
@@ -85,9 +78,6 @@ body {
     cursor: pointer;
 }
 
-/* ============================================
-   HERO - Simple Box Layout
-   ============================================ */
 .hero {
     background: #1f2937;
     padding: 60px 0;
@@ -165,7 +155,6 @@ body {
     color: #111827;
 }
 
-/* Profile Image - Simple Square */
 .profile-img {
     width: 250px;
     height: 250px;
@@ -174,9 +163,6 @@ body {
     border: 3px solid #374151;
 }
 
-/* ============================================
-   ABOUT - List Style
-   ============================================ */
 .about {
     padding: 50px 0;
     background: #111827;
@@ -197,7 +183,6 @@ body {
     line-height: 1.8;
 }
 
-/* Hobbies - Simple List */
 .hobbies-list {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
@@ -224,9 +209,6 @@ body {
     color: #e5e7eb;
 }
 
-/* ============================================
-   SKILLS - Grid Cards with Icons
-   ============================================ */
 .skills-section {
     margin-top: 40px;
 }
@@ -297,7 +279,6 @@ body {
     font-weight: bold;
 }
 
-/* Skill widths */
 .w-95 { width: 95%; }
 .w-90 { width: 90%; }
 .w-85 { width: 85%; }
@@ -305,9 +286,6 @@ body {
 .w-75 { width: 75%; }
 .w-70 { width: 70%; }
 
-/* ============================================
-   CERTIFICATES - Card Style
-   ============================================ */
 .certificates {
     padding: 50px 0;
     background: #1f2937;
@@ -398,9 +376,6 @@ body {
     color: #111827;
 }
 
-/* ============================================
-   FOOTER
-   ============================================ */
 .footer {
     background: #111827;
     padding: 30px 0;
@@ -413,9 +388,6 @@ body {
     font-size: 0.9rem;
 }
 
-/* ============================================
-   RESPONSIVE
-   ============================================ */
 @media (max-width: 768px) {
     .nav-menu {
         display: none;
